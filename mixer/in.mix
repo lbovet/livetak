@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<jack_mixer geometry="417x300">
+	<input_channel balance="0.000000" balance_midi_cc="12" name="Cap" type="stereo" volume="-inf" volume_midi_cc="11"/>
+	<input_channel balance="0.000000" balance_midi_cc="14" name="Drum" type="stereo" volume="-10.540541" volume_midi_cc="13"/>
+	<input_channel balance="0.000000" balance_midi_cc="16" name="Yosh" type="stereo" volume="0.000000" volume_midi_cc="15"/>
+	<input_channel balance="0.000000" balance_midi_cc="18" name="Synth" type="stereo" volume="-inf" volume_midi_cc="17"/>
+	<main_mix_channel balance="0.000000" balance_midi_cc="8" muted_channels="Drum" volume="0.000000" volume_midi_cc="7"/>
+</jack_mixer>

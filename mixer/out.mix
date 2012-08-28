@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<jack_mixer geometry="673x299">
+	<input_channel balance="0.000000" balance_midi_cc="12" name="L1" type="stereo" volume="0.000000" volume_midi_cc="11"/>
+	<input_channel balance="0.000000" balance_midi_cc="14" name="L2" type="stereo" volume="-9.285714" volume_midi_cc="13"/>
+	<input_channel balance="0.000000" balance_midi_cc="16" name="L3" type="stereo" volume="0.352941" volume_midi_cc="15"/>
+	<input_channel balance="0.000000" balance_midi_cc="18" name="L4" type="stereo" volume="0.000000" volume_midi_cc="17"/>
+	<input_channel balance="0.000000" balance_midi_cc="20" name="L5" type="stereo" volume="0.000000" volume_midi_cc="19"/>
+	<input_channel balance="0.000000" balance_midi_cc="22" name="L6" type="stereo" volume="0.000000" volume_midi_cc="21"/>
+	<input_channel balance="0.000000" balance_midi_cc="24" name="D1" type="stereo" volume="-2.142857" volume_midi_cc="23"/>
+	<input_channel balance="0.000000" balance_midi_cc="26" name="D2" type="stereo" volume="0.000000" volume_midi_cc="25"/>
+	<input_channel balance="0.000000" balance_midi_cc="28" name="D3" type="stereo" volume="0.000000" volume_midi_cc="27"/>
+	<input_channel balance="0.000000" balance_midi_cc="30" name="D4" type="stereo" volume="0.000000" volume_midi_cc="29"/>
+	<input_channel balance="0.000000" balance_midi_cc="32" name="D5" type="stereo" volume="0.000000" volume_midi_cc="31"/>
+	<input_channel balance="0.000000" balance_midi_cc="34" name="D6" type="stereo" volume="0.000000" volume_midi_cc="33"/>
+	<output_channel balance="0.000000" name="Phones" type="stereo" volume="-3.913043"/>
+	<main_mix_channel balance="0.000000" balance_midi_cc="8" muted_channels="D2|D3|D4|D5|D6" volume="-4.153846" volume_midi_cc="7"/>
+</jack_mixer>

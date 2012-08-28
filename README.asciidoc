@@ -1,0 +1,18 @@
+LiveTak
+=======
+
+= LiveTak = 
+
+A jack/ladish studio configuration for live music performance
+
+Author: Laurent Bovet <laurent.bovet@windmaster.ch>
+
+== Content 
+
+* +midi+: The 'mididings' configuration
+* +mixer+: The 'jack_mixer's before and after looper
+* +rack+: The effect 'jack-rack's after the looper
+* +script+: Shell scripts to configure and start the whole thing
+* +studio+: The 'ladish' configuration
+ 
+ 
