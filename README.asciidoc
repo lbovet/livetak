@@ -15,4 +15,18 @@ Author: Laurent Bovet <laurent.bovet@windmaster.ch>
 * +script+: Shell scripts to configure and start the whole thing
 * +studio+: The 'ladish' configuration
  
- 
+== Environment
+
+=== Computer ===
+
+* Asus Zenbook UX31
+* Xubuntu 11.10
+* Linux Kernel 3.0.0-13-lowlatency (from http://ppa.launchpad.net/abogani/ppa/ubuntu)
+
+=== Devices ===
+
+* USB sound card: Behringer UCA-202
+* USB keyboard: M-Audio KeyStation 49e
+* MIDI/USB adapter: E-MU XMidi1X1
+* Electronic drum: Yamaha DD-65 (on the MIDI/USB adapter)
+* Instruments (guitars, percussions) and microphone on analog mixing table
